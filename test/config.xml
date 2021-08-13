@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <log_fb_msg>true</log_fb_msg>
+    <log_level>2</log_level>
+    <vvvvv1>1</vvvvv1>
+    <vvvvv1>2</vvvvv1>
+    <vvvvv1>3</vvvvv1>
+    <vvvvv1>4</vvvvv1>
+
+    <vvvvv2 a1="11" a2="12" a3="13" a4="14" a5="str15">
+        <a6 b1="101" b2="102str"/>
+        <a6 b1="201" b2="202str"/>
+    </vvvvv2>
+    <vvvvv2 a1="21" a2="22" a3="23" a4="24" a5="str25"/>
+    <vvvvv2 a1="31" a2="32" a3="33" a4="34" a5="str35"/>
+    <vvvvv2 a1="41" a2="42" a3="43" a4="44" a5="str45"/>
+
+    <gs gs_int="134" gs_double="1234561">
+        <gs_float>34</gs_float>
+        <log_path>/home/jcmiao/log</log_path>
+        <hero>
+            <hero_level>100</hero_level>
+            <hero_name>hero00001</hero_name>
+        </hero>
+    </gs>
+    <value_int>10234</value_int>
+    <ii_map key="1" value="2"/>
+    <ii_map value="20">
+        <key>10</key>
+    </ii_map>
+
+    <mapvalue_map id="1" name="nnnnnn" level="10" is_something="true"/>
+    <mapvalue_map id="2" name="mmmmmm" level="10" is_something="false"/>
+    <mapvalue_map id="3" name="llllll" level="10" is_something="1"/>
+</root>

@@ -1,0 +1,12 @@
+#ifndef _CPP_STL_MAP_
+#define _CPP_STL_MAP_
+
+namespace std
+{
+    template <class K, class V>
+    class map
+    {
+    };
+}
+
+#endif

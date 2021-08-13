@@ -1,0 +1,12 @@
+#ifndef _CPP_STL_UNORDERED_MAP_
+#define _CPP_STL_UNORDERED_MAP_
+
+namespace std
+{
+    template <class K, class V>
+    class unordered_map
+    {
+    };
+}
+
+#endif

@@ -1,0 +1,11 @@
+#ifndef _CPP_STL_STRING_
+#define _CPP_STL_STRING_
+
+namespace std
+{
+    class string
+    {
+    };
+}
+
+#endif
