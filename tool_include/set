@@ -1,0 +1,12 @@
+#ifndef _CPP_STL_SET_
+#define _CPP_STL_SET_
+
+namespace std
+{
+    template <class T>
+    class set
+    {
+    };
+}
+
+#endif
